@@ -10,10 +10,10 @@
 <body>
 	<img src="chorifypiggy.png" style="width: 180px; height: 180px;"
 		align="right">
-	<form action="" method="post">
+	<form action="home.jsp" method="post">
 
 		<h1>New task</h1>
-		<table align="center">
+		<table align="center" class="table">
 			<tr>
 				<td>Chore:</td>
 				<td><input type="text" name="chore"></td>

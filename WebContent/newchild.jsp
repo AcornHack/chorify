@@ -10,7 +10,7 @@
 <body>
 	<img src="chorifypiggy.png" style="width: 180px; height: 180px;"
 		align="right">
-	<form action="">
+	<form action="home.jsp" method="post">
 		<br> <br>
 		<h1>New Child</h1>
 		<table align="center">

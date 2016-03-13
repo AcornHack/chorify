@@ -1,6 +1,9 @@
 body {
 	background-color: white;
-	font-family: Arial;
+	background-image: url("chorifybackground.png");
+    background-size: 0px 0px;
+    background-repeat: no-repeat;
+    font-family: Arial;
 	text-align: center;
 }
 
